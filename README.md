@@ -1,2 +1,7 @@
 # ADVANCED-TRAFFIC-ANALYSIS-FROM-FIXED-CAMERA-VIDEO-DATA
-This repository contains content developed with the aim of obtaining a degree in Computer Engineering at the University of Aveiro.
+This repository contains content developed with the aim of obtaining a degree in Computational Engineering at the University of Aveiro.
+
+The script used was in Open Source. In addition to my changes, previous changes were made by Eloísa Macedo, PhD Researcher at the Engineering Department
+Mechanics at the University of Aveiro [macedo@ua.pt], and Antonio Pascale [a.pascale@ua.pt].
+
+In addition to the code used, there is a word file with the necessary instructions for installing the programs used.
