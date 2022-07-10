@@ -1,0 +1,24 @@
+Frames per second (FPS) = 30
+
+
+Distance (in meters) between red and white detection lines :4
+Distance (in meters) between white and blue detection lines :4
+
+
+Car ID: 1, Heavy Vehicle
+Detection Frames [62, 66, 69]
+Mean Velocity/Speed (km/h): 126
+Acceleration: -3.888e+06(km/h^2)
+Current average traffic Velocity/Speed: 126(km/h)
+VSP value: -10493.5
+VSP mode: 1
+Emissions: CO2 = 4600.5(g/s); CO = 1.325(mg/s); NOx = 7.1723(mg/s); HC = 1.7616(mg/s)
+
+Car ID: 2, Heavy Vehicle
+Detection Frames [163, 166, 168]
+Mean Velocity/Speed (km/h): 180
+Acceleration: -7.776e+06(km/h^2)
+Current average traffic Velocity/Speed: 153(km/h)
+VSP value: -29990.7
+VSP mode: 1
+Emissions: CO2 = 4200.4(g/s); CO = 1.325(mg/s); NOx = 7.1723(mg/s); HC = 1.7616(mg/s)

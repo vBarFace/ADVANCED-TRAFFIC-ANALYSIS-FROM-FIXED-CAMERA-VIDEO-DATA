@@ -1,0 +1,448 @@
+﻿  main.cpp
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(119,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(526,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(529,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(614,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(617,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(635,29): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(723,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(726,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(791,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(794,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(803,29): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(891,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(894,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(958,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(961,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(969,29): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1057,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1060,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1124,50): warning C4244: '+=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1127,42): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1135,29): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1720,45): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1735,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1740,66): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1746,67): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1769,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1771,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1775,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1777,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1782,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1784,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1786,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1788,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1790,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1795,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1797,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1799,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1801,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1803,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1808,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1810,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1812,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1814,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1816,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1821,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1825,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1827,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1829,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1834,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1836,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1838,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1840,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1842,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1847,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1849,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1851,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1853,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1855,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1860,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1862,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1864,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1866,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1868,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1873,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1875,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1877,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1879,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1881,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1886,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1888,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1890,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1892,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1894,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1899,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1901,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1903,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1905,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1907,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1912,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1914,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1916,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1918,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1920,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1925,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1927,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1929,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1931,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1933,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1938,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1940,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1942,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1944,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1946,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1952,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1969,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1971,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1973,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1975,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1977,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1982,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1984,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1986,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1988,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1990,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1995,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1997,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(1999,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2001,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2003,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2008,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2010,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2012,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2014,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2016,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2021,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2023,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2025,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2027,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2029,12): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2034,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2036,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2038,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2042,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2047,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2049,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2051,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2055,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2060,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2062,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2064,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2066,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2068,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2073,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2075,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2077,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2079,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2081,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2086,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2088,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2094,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2099,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2101,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2103,12): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2105,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2107,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2112,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2114,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2116,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2118,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2120,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2125,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2127,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2129,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2131,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2133,12): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2138,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2140,17): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2142,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2144,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2146,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2152,36): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2182,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2184,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2186,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2188,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2193,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2195,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2197,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2199,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2204,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2206,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2208,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2210,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2215,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2217,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2219,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2221,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2226,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2228,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2230,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2232,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2237,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2239,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2241,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2243,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2248,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2250,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2252,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2254,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2259,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2261,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2263,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2265,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2270,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2272,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2274,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2276,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2281,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2283,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2285,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2287,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2292,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2294,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2296,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2298,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2303,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2305,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2307,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2309,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2314,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2316,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2318,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2320,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2325,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2327,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2329,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2331,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2336,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2338,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2340,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2342,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2347,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2349,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2351,17): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2353,14): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\aveiro_car_count\main.cpp(2359,35): warning C4244: 'argumento': conversão de 'int' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+  aveiro_car_count.vcxproj -> C:\Users\andre\Desktop\Aveiro_car_count\aveiro_car_count\x64\Debug\aveiro_car_count.exe
